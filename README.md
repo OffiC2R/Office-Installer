@@ -5,8 +5,7 @@
 </p>
 
 # Office Installer (A newer version of C2R Edition)
-> Current Version - Version 1.1.8
->  - When working with an ISO file or a nearby distribution, the option to “Unlock the channel list” has been added.
+> Current Version - Version 1.23
 
 ## About the Program
 - **Purpose**: This program is specifically designed for **online installation and activation** of Microsoft Office 2013/2024 C2R (Click-to-Run).
