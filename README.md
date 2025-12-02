@@ -5,7 +5,10 @@
 </p>
 
 # Office Installer (A newer version of C2R Edition)
-> Current Version - Version 1.27
+> Current Version - Version 1.33
+
+Changelog:
+- The download link for the distribution kit has been changed in the program.
 
 ## About the Program
 - **Purpose**: This program is specifically designed for **online installation and activation** of Microsoft Office 2013/2024 C2R (Click-to-Run).
